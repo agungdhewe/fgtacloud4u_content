@@ -1,0 +1,7 @@
+{
+	"title" : "Mini Header",
+	"allowanonymous" : true,
+	"allowedgroups" : ["public"],
+	"apis" : {
+	}	
+}

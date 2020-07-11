@@ -1,0 +1,7 @@
+{
+	"title" : "Big Header",
+	"allowanonymous" : true,
+	"allowedgroups" : ["public"],
+	"apis" : {
+	}	
+}
